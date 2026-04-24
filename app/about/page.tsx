@@ -115,7 +115,7 @@ const AboutPage = () => {
     {
       year: "2018",
       title: "Company Founded",
-      description: "ForwardSols was born with a vision to democratize AI for businesses."
+      description: "AhmadSols was born with a vision to democratize AI for businesses."
     },
     {
       year: "2019",
@@ -236,7 +236,7 @@ const AboutPage = () => {
               
               <div className="space-y-4 text-gray-300">
                 <p className="text-lg leading-relaxed">
-                  Founded in 2018, ForwardSols began with a simple yet powerful vision: to make 
+                  Founded in 2018, AhmadSols began with a simple yet powerful vision: to make 
                   enterprise-grade AI and technology solutions accessible to businesses of all sizes.
                 </p>
                 <p className="text-lg leading-relaxed">
@@ -418,7 +418,7 @@ const AboutPage = () => {
               >
                 <Quote className="w-8 h-8 text-amber-500/30 mb-4" />
                 <p className="text-gray-300 text-sm mb-4">
-                  "ForwardSols transformed our business with their AI solutions. 
+                  "AhmadSols transformed our business with their AI solutions. 
                   Our revenue increased by 200% within 6 months."
                 </p>
                 <div className="flex items-center gap-3">

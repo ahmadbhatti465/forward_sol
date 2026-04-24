@@ -384,7 +384,7 @@ const CareerHero = () => (
         <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold mb-6">
           <span className="bg-linear-to-r from-amber-300 via-amber-400 to-amber-500 bg-clip-text text-transparent">Build the Future</span>
           <br />
-          <span className="text-white">with ForwardSols</span>
+          <span className="text-white">with AhmadSols</span>
         </h1>
         <p className="text-xl text-gray-400 mb-8 max-w-3xl mx-auto">
           Join a team of innovators dedicated to transforming businesses through AI and technology.
@@ -414,7 +414,7 @@ const WhyJoinUs = () => {
   return (
     <section className="py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <SectionHeading title="Why Join Us?" subtitle="Discover what makes ForwardSols a great place to work" />
+        <SectionHeading title="Why Join Us?" subtitle="Discover what makes AhmadSols a great place to work" />
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mt-12">
           {reasons.map((reason, index) => (
             <motion.div key={index} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: index * 0.1 }} viewport={{ once: true }}
@@ -525,11 +525,11 @@ const PositionModal = ({ position, onClose }: { position: JobPosition | null; on
               <div key={i} className="flex gap-2 text-gray-300 mb-2"><CheckCircle className="w-5 h-5 text-amber-500 shrink-0 mt-0.5" /><span>{item}</span></div>
             ))}</div>
             <div className="pt-6 border-t border-amber-500/20">
-              <a href={`mailto:careers@forwardsols.com?subject=Application for ${position.title}`}
+              <a href={`mailto:careers@Ahmadsols.com?subject=Application for ${position.title}`}
                 className="group bg-linear-to-r from-amber-500 to-amber-600 text-white px-6 py-3 rounded-lg font-semibold inline-flex items-center gap-2">
                 <Mail className="w-5 h-5" /> Apply for this position
               </a>
-              <p className="text-gray-500 text-sm mt-4">Send your resume and cover letter to careers@forwardsols.com</p>
+              <p className="text-gray-500 text-sm mt-4">Send your resume and cover letter to careers@Ahmadsols.com</p>
             </div>
           </div>
         </motion.div>
@@ -586,7 +586,7 @@ const OpenPositionsSection = () => {
 const HiringProcessSection = () => (
   <section className="py-20">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <SectionHeading title="Our Hiring Process" subtitle="We've designed a transparent and straightforward process to find the best fit" />
+      <SectionHeading title="Our Hiring Process" subtitle="We've designed a transparent and straightAhmad process to find the best fit" />
       <div className="grid md:grid-cols-5 gap-4 mt-12">
         {hiringSteps.map((step, index) => (
           <motion.div key={index} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: index * 0.1 }} viewport={{ once: true }}
@@ -610,11 +610,11 @@ const HiringProcessSection = () => (
   </section>
 )
 
-// Life at ForwardSols Section
-const LifeAtForwardSolsSection = () => (
+// Life at AhmadSols Section
+const LifeAtAhmadSolsSection = () => (
   <section className="py-20 bg-linear-to-b from-amber-500/5 to-transparent">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <SectionHeading title="Life at ForwardSols" subtitle="More than just work - we're a community of innovators" />
+      <SectionHeading title="Life at AhmadSols" subtitle="More than just work - we're a community of innovators" />
       <div className="grid md:grid-cols-3 gap-6 mt-12">
         {cultureImages.map((image, index) => (
           <motion.div key={image.id} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: index * 0.1 }} viewport={{ once: true }}
@@ -640,7 +640,7 @@ const CareerCTA = () => (
         <p className="text-gray-400 text-lg mb-8 max-w-2xl mx-auto">
           We're always looking for talented individuals. Send us your resume and we'll keep you in mind for future opportunities.
         </p>
-        <a href="mailto:careers@forwardsols.com"
+        <a href="mailto:careers@Ahmadsols.com"
           className="group bg-linear-to-r from-amber-500 to-amber-600 text-white px-8 py-4 rounded-xl font-semibold inline-flex items-center gap-2">
           Send General Application <Mail className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
         </a>
@@ -659,7 +659,7 @@ const CareerPage = () => {
       <BenefitsSection />
       <OpenPositionsSection />
       <HiringProcessSection />
-      <LifeAtForwardSolsSection />
+      <LifeAtAhmadSolsSection />
       <CareerCTA />
     </div>
   )

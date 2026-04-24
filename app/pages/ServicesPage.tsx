@@ -147,7 +147,7 @@ const ServicesPage = () => {
             Our Competitive Edge
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            ForwardSols specializes in transforming businesses through technology. 
+            AhmadSols specializes in transforming businesses through technology. 
             Here's how we solve critical pain points
           </p>
         </motion.div>
@@ -227,7 +227,7 @@ const ServicesPage = () => {
                 <h3 className="text-xl font-bold text-white">Proven Results</h3>
               </div>
               <p className="text-gray-300 mb-4">
-                ForwardSols clients see 200% higher ROI and 150% more revenue within 12 months. 
+                AhmadSols clients see 200% higher ROI and 150% more revenue within 12 months. 
                 We merge technical expertise with growth hacking to unlock your digital potential.
               </p>
               <p className="text-amber-400 font-semibold">

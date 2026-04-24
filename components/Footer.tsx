@@ -63,11 +63,11 @@ const Footer = () => {
   ]
 
   const socialLinks = [
-    { icon: <Facebook className="w-5 h-5" />, href: 'https://facebook.com/forwardsols', label: 'Facebook' },
-    { icon: <Twitter className="w-5 h-5" />, href: 'https://twitter.com/forwardsols', label: 'Twitter' },
-    { icon: <Linkedin className="w-5 h-5" />, href: 'https://linkedin.com/company/forwardsols', label: 'LinkedIn' },
-    { icon: <Instagram className="w-5 h-5" />, href: 'https://instagram.com/forwardsols', label: 'Instagram' },
-    { icon: <Github className="w-5 h-5" />, href: 'https://github.com/forwardsols', label: 'GitHub' },
+    { icon: <Facebook className="w-5 h-5" />, href: 'https://facebook.com/Ahmadsols', label: 'Facebook' },
+    { icon: <Twitter className="w-5 h-5" />, href: 'https://twitter.com/Ahmadsols', label: 'Twitter' },
+    { icon: <Linkedin className="w-5 h-5" />, href: 'https://linkedin.com/company/Ahmadsols', label: 'LinkedIn' },
+    { icon: <Instagram className="w-5 h-5" />, href: 'https://instagram.com/Ahmadsols', label: 'Instagram' },
+    { icon: <Github className="w-5 h-5" />, href: 'https://github.com/Ahmadsols', label: 'GitHub' },
   ]
 
   return (
@@ -89,7 +89,7 @@ const Footer = () => {
           >
             <Link href="/" className="inline-block mb-4">
               <h2 className="text-3xl font-bold bg-gradient-to-r from-amber-300 via-amber-400 to-amber-500 bg-clip-text text-transparent">
-                FORWARDSOLS
+                AhmadSOLS
               </h2>
             </Link>
             <p className="text-gray-400 mb-6 max-w-md">
@@ -105,8 +105,8 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3 text-gray-400">
                 <Mail className="w-5 h-5 text-amber-500" />
-                <a href="mailto:contact@forwardsols.com" className="hover:text-amber-500 transition-colors">
-                  contact@forwardsols.com
+                <a href="mailto:contact@Ahmadsols.com" className="hover:text-amber-500 transition-colors">
+                  contact@Ahmadsols.com
                 </a>
               </div>
               <div className="flex items-center gap-3 text-gray-400">
@@ -284,7 +284,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             {/* Copyright */}
             <p className="text-gray-500 text-sm text-center md:text-left">
-              © {currentYear} ForwardSols. All rights reserved. | 
+              © {currentYear} AhmadSols. All rights reserved. | 
               <Link href="/privacy" className="hover:text-amber-500 transition-colors ml-1">Privacy</Link> | 
               <Link href="/terms" className="hover:text-amber-500 transition-colors ml-1">Terms</Link> | 
               <Link href="/cookies" className="hover:text-amber-500 transition-colors ml-1">Cookies</Link>
@@ -308,7 +308,7 @@ const Footer = () => {
 
             {/* Made with love */}
             <p className="text-gray-500 text-xs flex items-center gap-1">
-              Made with <Heart className="w-3 h-3 text-amber-500" /> by ForwardSols
+              Made with <Heart className="w-3 h-3 text-amber-500" /> by AhmadSols
             </p>
           </div>
         </motion.div>

@@ -13,7 +13,7 @@ const page = () => {
       <HeroSection/>
       <AboutSection/>
       <ServicesPage/>
-      <StatisticsPage/> 
+      <StatisticsPage/>
       <ClientReviewsSection/>
       <InnovationPage/>
     </div>

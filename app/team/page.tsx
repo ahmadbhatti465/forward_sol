@@ -44,11 +44,11 @@ const TeamPage = () => {
       name: "Ahmad",
       role: "Founder & CEO",
       department: "Executive",
-      email: "ahmad@forwardsols.com",
+      email: "ahmad@Ahmadsols.com",
       phone: "+1 (555) 123-4567",
       location: "San Francisco, CA",
-      bio: "Visionary leader with 15+ years of experience in AI and software development. Founded ForwardSols with a mission to democratize AI for businesses of all sizes.",
-      longBio: "Ahmad started his career as a software engineer at Google, where he spent 8 years working on machine learning infrastructure. In 2018, he founded ForwardSols to bring enterprise-grade AI solutions to businesses that previously couldn't access such technology. Under his leadership, the company has grown to serve 500+ clients across 30+ countries.",
+      bio: "Visionary leader with 15+ years of experience in AI and software development. Founded AhmadSols with a mission to democratize AI for businesses of all sizes.",
+      longBio: "Ahmad started his career as a software engineer at Google, where he spent 8 years working on machine learning infrastructure. In 2018, he founded AhmadSols to bring enterprise-grade AI solutions to businesses that previously couldn't access such technology. Under his leadership, the company has grown to serve 500+ clients across 30+ countries.",
       expertise: ["AI Strategy", "Leadership", "Innovation", "Product Development"],
       skills: [
         { name: "Strategic Planning", level: 95 },
@@ -59,7 +59,7 @@ const TeamPage = () => {
       education: "M.S. Computer Science, Stanford University",
       experience: "15+ years in tech leadership",
       achievements: [
-        "Founded ForwardSols, now serving 500+ clients",
+        "Founded AhmadSols, now serving 500+ clients",
         "Former Lead Engineer at Google",
         "Speaker at 20+ tech conferences",
         "Patent holder in ML optimization"
@@ -68,7 +68,7 @@ const TeamPage = () => {
         linkedin: "https://linkedin.com/in/ahmad",
         twitter: "https://twitter.com/ahmad",
         github: "https://github.com/ahmad",
-        email: "mailto:ahmad@forwardsols.com"
+        email: "mailto:ahmad@Ahmadsols.com"
       },
       image: "/images/team/ahmad.jpg",
       color: "from-amber-500 to-amber-600"
@@ -78,11 +78,11 @@ const TeamPage = () => {
       name: "Sarah Johnson",
       role: "Chief Technology Officer",
       department: "Executive",
-      email: "sarah@forwardsols.com",
+      email: "sarah@Ahmadsols.com",
       phone: "+1 (555) 234-5678",
       location: "San Francisco, CA",
       bio: "Former lead architect at Google Cloud, specializing in scalable AI systems and cloud infrastructure.",
-      longBio: "Sarah brings 12 years of experience in cloud architecture and distributed systems. At Google Cloud, she led the design of infrastructure handling millions of requests per second. She now applies this expertise to ensure ForwardSols' solutions are scalable, reliable, and performant for enterprise clients.",
+      longBio: "Sarah brings 12 years of experience in cloud architecture and distributed systems. At Google Cloud, she led the design of infrastructure handling millions of requests per second. She now applies this expertise to ensure AhmadSols' solutions are scalable, reliable, and performant for enterprise clients.",
       expertise: ["Cloud Architecture", "AI/ML Systems", "Scalability", "DevOps"],
       skills: [
         { name: "Cloud Architecture", level: 98 },
@@ -102,7 +102,7 @@ const TeamPage = () => {
         linkedin: "https://linkedin.com/in/sarahjohnson",
         twitter: "https://twitter.com/sarahjohnson",
         github: "https://github.com/sarahjohnson",
-        email: "mailto:sarah@forwardsols.com"
+        email: "mailto:sarah@Ahmadsols.com"
       },
       image: "/images/team/sarah.jpg",
       color: "from-purple-500 to-amber-500"
@@ -112,11 +112,11 @@ const TeamPage = () => {
       name: "Michael Chen",
       role: "Head of AI Research",
       department: "AI/ML",
-      email: "michael@forwardsols.com",
+      email: "michael@Ahmadsols.com",
       phone: "+1 (555) 345-6789",
       location: "San Francisco, CA",
       bio: "PhD in Machine Learning with 8 years of experience in neural networks and deep learning research.",
-      longBio: "Michael completed his PhD at Carnegie Mellon University, focusing on deep learning architectures. Before joining ForwardSols, he worked at OpenAI where he contributed to large language model development. He now leads our AI research team, pushing the boundaries of what's possible with machine learning.",
+      longBio: "Michael completed his PhD at Carnegie Mellon University, focusing on deep learning architectures. Before joining AhmadSols, he worked at OpenAI where he contributed to large language model development. He now leads our AI research team, pushing the boundaries of what's possible with machine learning.",
       expertise: ["Deep Learning", "Neural Networks", "Computer Vision", "NLP"],
       skills: [
         { name: "Machine Learning", level: 98 },
@@ -136,7 +136,7 @@ const TeamPage = () => {
         linkedin: "https://linkedin.com/in/michaelchen",
         twitter: "https://twitter.com/michaelchen",
         github: "https://github.com/michaelchen",
-        email: "mailto:michael@forwardsols.com"
+        email: "mailto:michael@Ahmadsols.com"
       },
       image: "/images/team/michael.jpg",
       color: "from-blue-500 to-amber-500"
@@ -146,7 +146,7 @@ const TeamPage = () => {
       name: "Emily Rodriguez",
       role: "Lead Developer",
       department: "Engineering",
-      email: "emily@forwardsols.com",
+      email: "emily@Ahmadsols.com",
       phone: "+1 (555) 456-7890",
       location: "San Francisco, CA",
       bio: "Full-stack expert with passion for building elegant, performant web applications using React and Next.js.",
@@ -170,7 +170,7 @@ const TeamPage = () => {
         linkedin: "https://linkedin.com/in/emilyrodriguez",
         twitter: "https://twitter.com/emilyrodriguez",
         github: "https://github.com/emilyrodriguez",
-        email: "mailto:emily@forwardsols.com"
+        email: "mailto:emily@Ahmadsols.com"
       },
       image: "/images/team/emily.jpg",
       color: "from-green-500 to-amber-500"
@@ -180,11 +180,11 @@ const TeamPage = () => {
       name: "David Kim",
       role: "Head of Marketing",
       department: "Marketing",
-      email: "david@forwardsols.com",
+      email: "david@Ahmadsols.com",
       phone: "+1 (555) 567-8901",
       location: "San Francisco, CA",
       bio: "Growth hacker with track record of scaling startups from 0 to $10M+ revenue through digital strategy.",
-      longBio: "David brings 12 years of marketing experience, having led growth for 5 successful startups. He specializes in data-driven marketing strategies that deliver measurable ROI. At ForwardSols, he ensures our message reaches the right audience with maximum impact.",
+      longBio: "David brings 12 years of marketing experience, having led growth for 5 successful startups. He specializes in data-driven marketing strategies that deliver measurable ROI. At AhmadSols, he ensures our message reaches the right audience with maximum impact.",
       expertise: ["SEO/SEM", "Content Strategy", "Analytics", "Brand Development"],
       skills: [
         { name: "SEO Strategy", level: 96 },
@@ -204,7 +204,7 @@ const TeamPage = () => {
         linkedin: "https://linkedin.com/in/davidkim",
         twitter: "https://twitter.com/davidkim",
         github: "https://github.com/davidkim",
-        email: "mailto:david@forwardsols.com"
+        email: "mailto:david@Ahmadsols.com"
       },
       image: "/images/team/david.jpg",
       color: "from-red-500 to-amber-500"
@@ -214,11 +214,11 @@ const TeamPage = () => {
       name: "Lisa Thompson",
       role: "Client Success Director",
       department: "Client Relations",
-      email: "lisa@forwardsols.com",
+      email: "lisa@Ahmadsols.com",
       phone: "+1 (555) 678-9012",
       location: "San Francisco, CA",
       bio: "Ensuring every client achieves their business goals with our solutions through dedicated support.",
-      longBio: "Lisa has spent 9 years in client success roles at top SaaS companies. She believes that a company's success is directly tied to its clients' success. She leads our client success team to ensure every ForwardSols client gets maximum value from our solutions.",
+      longBio: "Lisa has spent 9 years in client success roles at top SaaS companies. She believes that a company's success is directly tied to its clients' success. She leads our client success team to ensure every AhmadSols client gets maximum value from our solutions.",
       expertise: ["Client Relations", "Account Management", "Support", "Training"],
       skills: [
         { name: "Client Management", level: 98 },
@@ -238,7 +238,7 @@ const TeamPage = () => {
         linkedin: "https://linkedin.com/in/lisathompson",
         twitter: "https://twitter.com/lisathompson",
         github: "https://github.com/lisathompson",
-        email: "mailto:lisa@forwardsols.com"
+        email: "mailto:lisa@Ahmadsols.com"
       },
       image: "/images/team/lisa.jpg",
       color: "from-pink-500 to-amber-500"
@@ -248,7 +248,7 @@ const TeamPage = () => {
       name: "James Wilson",
       role: "Lead Mobile Developer",
       department: "Engineering",
-      email: "james@forwardsols.com",
+      email: "james@Ahmadsols.com",
       phone: "+1 (555) 789-0123",
       location: "San Francisco, CA",
       bio: "Expert in native and cross-platform mobile development with 20+ apps in production.",
@@ -272,7 +272,7 @@ const TeamPage = () => {
         linkedin: "https://linkedin.com/in/jameswilson",
         twitter: "https://twitter.com/jameswilson",
         github: "https://github.com/jameswilson",
-        email: "mailto:james@forwardsols.com"
+        email: "mailto:james@Ahmadsols.com"
       },
       image: "/images/team/james.jpg",
       color: "from-orange-500 to-amber-500"
@@ -282,7 +282,7 @@ const TeamPage = () => {
       name: "Priya Patel",
       role: "Data Science Lead",
       department: "AI/ML",
-      email: "priya@forwardsols.com",
+      email: "priya@Ahmadsols.com",
       phone: "+1 (555) 890-1234",
       location: "San Francisco, CA",
       bio: "Data scientist specializing in predictive analytics and business intelligence solutions.",
@@ -306,7 +306,7 @@ const TeamPage = () => {
         linkedin: "https://linkedin.com/in/priyapatel",
         twitter: "https://twitter.com/priyapatel",
         github: "https://github.com/priyapatel",
-        email: "mailto:priya@forwardsols.com"
+        email: "mailto:priya@Ahmadsols.com"
       },
       image: "/images/team/priya.jpg",
       color: "from-indigo-500 to-amber-500"
@@ -349,7 +349,7 @@ const TeamPage = () => {
                 Meet the Minds
               </span>
               <br />
-              <span className="text-white">Behind ForwardSols</span>
+              <span className="text-white">Behind AhmadSols</span>
             </h1>
             
             <p className="text-xl text-gray-400 mb-8 max-w-3xl mx-auto">

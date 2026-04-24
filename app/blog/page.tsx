@@ -331,7 +331,7 @@ const BlogHero = () => (
         <GradientBadge icon={<Sparkles className="w-4 h-4" />} text="INSIGHTS & INNOVATION" className="mb-6" />
         <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold mb-6">
           <span className="bg-linear-to-r from-amber-300 via-amber-400 to-amber-500 bg-clip-text text-transparent">
-            ForwardSols Blog
+            AhmadSols Blog
           </span>
         </h1>
         <p className="text-xl text-gray-400 mb-8 max-w-3xl mx-auto">

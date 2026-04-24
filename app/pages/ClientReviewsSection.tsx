@@ -22,7 +22,7 @@ const NewClientReviewsSection = () => {
 
   const reviews = [
     {
-      text: "ForwardSols transformed our business with their AI-powered solutions. Our revenue increased by 200% within 6 months. Their team's expertise and dedication are unmatched.",
+      text: "AhmadSols transformed our business with their AI-powered solutions. Our revenue increased by 200% within 6 months. Their team's expertise and dedication are unmatched.",
       author: "Sarah Johnson",
       role: "CEO, TechStart Inc.",
       rating: 5,
